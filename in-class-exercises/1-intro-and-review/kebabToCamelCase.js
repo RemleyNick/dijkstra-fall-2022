@@ -20,4 +20,4 @@ function kebabToCamel(kebabString) {
     return camelString;
   }
 
-console.log(kebabToCamel('ALL-CAP'));
+console.log(kebabToCamel('ALL-CAPS'));
